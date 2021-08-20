@@ -28,3 +28,16 @@ The T-test for suspension coils for Lot 2 shows that they are not statistically 
 ### Lot 3
 ![T_Test_Lot2](https://user-images.githubusercontent.com/79877531/130296625-78f9dfd2-8423-4c3e-8bbd-e35561db87b2.png)
 The T-test for suspension coils for Lot 3 shows that they are statistically different from the population mean, and the p-value is low enough for us to reject the null hypothesis.
+
+## Study Design: MechaCar Vs Competition
+- Given the cost and variability of cost of fuel, one of the biggest factors that consumers consider when purchasing a car is fuel efficiency.
+- The metric to be tested is average MPG.
+- Null Hypothesis: Cars in the same vehicle class have the same fuel efficiency.
+- Alternative Hypothesis: Cars in the same vehicle class do not have the same fuel efficiency.
+
+### Statistical Test To Be Used
+- Two sample T-Tests
+
+### Data Needed
+- Dataset with MPG info on different models in the same vehicle class.
+
